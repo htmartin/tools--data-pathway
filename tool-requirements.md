@@ -79,10 +79,18 @@ Lab	5.5.4	Addressing anomolies with vlookup
 Video	5.5.5	Analytics with Excel summary 
 CYU-Quiz	5.5.6	
 
+### Lab	4.1.2	Using excel to sort and filter data
+### Lab	4.2.7	Manipulate Data
+### Lab	4.3.6	Pivot tables
+### Lab	5.4.3	Interpret visualizations with respect to outliers
+### Lab	5.5.4	Addressing anomolies with vlookup
 
 
 
+#SQL
 
+## Lab	6.2.4	Introduction to structured queries
+## Lab	6.3.4	Creating tables
 
 MG		Module Group 5
 CS		Analyze data using basic statistical and data preparation techniques.
@@ -130,5 +138,4 @@ CYU-Quiz	6.4.6
 
 
 #Tableau - all TBD
-###Topic Visualize Data with Tableau
-ELO	Import data to create visualizations
+###Topic Visualize Data with Tableau- ELO	Import data to create visualizations
