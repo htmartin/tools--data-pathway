@@ -1,6 +1,9 @@
 # Intro to data currently
 
+##Topic 1	What is data? - ELO		Identify applications of data in daily life
 - Lab 	1.1.8	Experiment in Datawrapper (JP 1/15 Maybe Merge with the Exploring Lab)	NEW			PW 4/12: Add to whatever analysis is in the WOW activity - using same dataset aligned with storyline.
+
+- Replace with ice cream lab
 
 - Lab 	1.3.5	Datawrapper lab on case study in 1.3.2	NEW			"JP 5/4 - student given a dataset  PW 5/5 link to Humanitarian example.  Climate data is readily available and relateable.
 PW 5/14  Two possible CSVs in Activities Folder"
