@@ -1,4 +1,7 @@
+# Excel
+
 MG		Module Group 3
+
 CS		Transform data using anayltics tools
 
 Module 1	Transforming data with Excel
@@ -87,7 +90,7 @@ CYU-Quiz	5.5.6
 
 
 
-#SQL
+# SQL
 
 ## Lab	6.2.4	Introduction to structured queries
 ## Lab	6.3.4	Creating tables
@@ -137,5 +140,5 @@ Lab	6.4.5	Joining SQL tables
 CYU-Quiz	6.4.6	
 
 
-#Tableau - all TBD
-###Topic Visualize Data with Tableau- ELO	Import data to create visualizations
+# Tableau - all TBD
+### Topic Visualize Data with Tableau- ELO	Import data to create visualizations
