@@ -26,20 +26,19 @@ PW 5/14 - Roller Coaster lab is good here"
 
 ## Excel
 
-
-
 - Lab	4.1.2	Using excel to sort and filter data
 - Lab	4.2.7	Manipulate Data
-- Lab	4.3.6	Pivot tables- Lab	5.4.3	Interpret visualizations with respect to outliers
+- Lab	4.3.6	Pivot tables
+- Lab	5.4.3	Interpret visualizations with respect to outliers
 - Lab	5.5.4	Addressing anomolies with vlookup
 
 
 
 ## SQL
 
-## Lab	6.2.4	Introduction to structured queries
-## Lab	6.3.4	Creating tables
-## Lab	6.4.5	Joining SQL tables
+	- Lab	6.2.4	Introduction to structured queries
+	- Lab	6.3.4	Creating tables
+	- Lab	6.4.5	Joining SQL tables
 
 
 ## Tableau - all TBD
