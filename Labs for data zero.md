@@ -5,7 +5,9 @@ Labs for data zero
 
 ### DataCrunchers  story: 
 	- Hi, my name is “Amber”.  Welcome to DataCrunchers, we’re so glad that you accepted our internship position.  You’ll find this opportunity fast-paced and exciting – you’ll get to work with all types of businesses and organizations to help them solve problems.  Our team is working on some challenging projects right now, so let’s get you started. 
-- Ice cream Shop lab - just add to that it is a project for data analysis for data crunchers.
+
+	In topic 1.1.4. "The data analysts at DataCrunchers work hard to create stories and reports from their clients’ data.  To make the information relevant and actionable by the client management and staff, the analysts rely heavily on visualization techniques. "  
+- Ice cream Shop lab - change from ice cr to work data- just add to that it is a project for data analysis for data crunchers.
 
 ## Module  2: Data Collection / Storage
 - TLO		Identify the primary components of data collection and storage 
@@ -21,11 +23,18 @@ Labs for data zero
 
 ## Module 4	Embarking on Your Career in Data Anlytics
 	- TLO Discover the different job roles in Data Analytics
-- we will use actual job data to generate some data which matches that shape and distribution
-- learners will do some simple exploration in the job data using a similar tool to ice cream shop, but with the job data, 
+	- OK now it's time for you to look at what kind of jobs you might get to do"?
+	- we will use actual job data to generate some data which matches that shape and distribution(Patti has it)
+	- learners will do some simple exploration in the job data using a similar tool to Lab 1, but with the job data, 
 
- # Goal: Show ice cream shop and the AIML one in Tuesday meeting with Coumara and tool group.
 
+Lab3: AIML:  a simple (mock up)vision training tool: 
+- show something to the camera and take a picture  
+- label it  
+- generate a training data set  
+- Click train my model - trains it (but montage version because usually training takes a long time.)
+- test it: teach them how to build a test set or they can just test it live? 
+- an activity around learners comparing their training and test data to see how their model performed, and whether they need to do some adjustment to it.
 
 ###Number and timing of labs for data0
 
